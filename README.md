@@ -2,4 +2,4 @@
 
 # usage 
 
-python pythonlove.py
+python love.py
